@@ -16,6 +16,13 @@
 
 ## Conclusion
 
+## References
+
+1. https://developer.android.com/
+2. https://developer.android.com/topic/libraries/support-library
+3. https://developer.android.com/topic/libraries/view-binding#kotlin
+4. https://stackoverflow.com/questions/47199242/error-unresolved-reference-in-kotlin-android
+
 ### MIT Licence
 
 **Copyright (c) 2023 Aditya Bahl**

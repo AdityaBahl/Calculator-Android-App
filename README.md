@@ -52,6 +52,28 @@ It's important to note that the algorithm may vary depending on the specific imp
 
 ## Challenges and Limitations
 
+There are several challenges and limitations that may arise when developing an Android Calculator Application using Kotlin and Android Studio:
+
+1. **_Complexity:_** The calculator application may be complex to develop, especially if it includes advanced features such as trigonometric functions, scientific notation, or graphing capabilities.
+
+2. **_User interface design:_** The user interface (UI) design can be challenging to get right, as it needs to be intuitive, easy to use and responsive, especially in different screen sizes.
+
+3. **_Testing:_** Testing the application can be difficult, especially if it includes advanced features, and it may require a significant amount of time and resources.
+
+4. **_Memory Management:_** The application must be optimized for memory management to avoid any crashes or freezing of the application.
+
+5. **_Security:_** The application must be secure and protect any sensitive data such as user's input or results.
+
+6. **_Compliance with guidelines:_** The application must comply with the Android guidelines, including accessibility and performance standards.
+
+7. **_Limited resources:_** The application may be limited by the resources available, such as the device's processing power and storage.
+
+8. **_Limited device support:_** The application may not work well on older devices or those with limited resources.
+
+9. **_Limited performance:_** The application may have limited performance and may not be able to handle complex calculations quickly and efficiently.
+
+Overall, it's important to keep in mind that developing an Android Calculator Application using Kotlin and Android Studio is a complex task that requires a variety of skills and knowledge in Android development, programming and user interface design.
+
 ## Conclusion
 
 ## Exporting to APK

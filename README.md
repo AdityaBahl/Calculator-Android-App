@@ -6,6 +6,11 @@
 2. **Gradle**
 3. **Android Studio**
 
+## Preview
+
+![image1](https://user-images.githubusercontent.com/90335449/213575575-2a1fc111-a135-4f43-88a4-7c2153388973.png)
+![image2](https://user-images.githubusercontent.com/90335449/213575590-d6c10b42-1196-425d-8d09-ace6ebcb98fb.png)
+
 ## APK File
 
 Steps to use:

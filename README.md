@@ -80,10 +80,6 @@ There are several challenges and limitations that may arise when developing an A
 
 Overall, it's important to keep in mind that developing an Android Calculator Application using Kotlin and Android Studio is a complex task that requires a variety of skills and knowledge in Android development, programming and user interface design.
 
-## Conclusion
-
-In conclusion, an Android Calculator Application using Kotlin and Android Studio can be a useful tool for performing mathematical calculations on Android devices. However, there are several challenges and limitations that must be considered when developing such an application, including complexity, user interface design, testing, memory management, security, compliance with guidelines, limited resources, limited device support, and limited performance. Despite these challenges, the use of Kotlin and Android Studio can provide a powerful, easy-to-use, and efficient development environment that can help to quickly and easily create high-quality calculator applications. Additionally, the use of Kotlin offers benefits such as better performance and security, easy integration with Java, and a large community of developers. Overall, developing an Android calculator application using Kotlin and Android Studio can be a good choice for a developer looking to create a functional, user-friendly and efficient calculator app.
-
 ## Exporting to APK
 
 Exporting an app to an APK file in Android Studio involves the following steps:
@@ -113,6 +109,10 @@ It's important to note that you should sign the apk before distributing it, you 
 5. Click Finish and the wizard signs and exports the APK or AAB.
 
 Additionally, you can also use the command line to export the apk, by using the command "./gradlew assembleRelease" in the terminal of your project directory.
+
+## Conclusion
+
+In conclusion, an Android Calculator Application using Kotlin and Android Studio can be a useful tool for performing mathematical calculations on Android devices. However, there are several challenges and limitations that must be considered when developing such an application, including complexity, user interface design, testing, memory management, security, compliance with guidelines, limited resources, limited device support, and limited performance. Despite these challenges, the use of Kotlin and Android Studio can provide a powerful, easy-to-use, and efficient development environment that can help to quickly and easily create high-quality calculator applications. Additionally, the use of Kotlin offers benefits such as better performance and security, easy integration with Java, and a large community of developers. Overall, developing an Android calculator application using Kotlin and Android Studio can be a good choice for a developer looking to create a functional, user-friendly and efficient calculator app.
 
 ## References
 

@@ -6,6 +6,14 @@
 2. **Gradle**
 3. **Android Studio**
 
+## APK File
+
+Steps to use:
+
+1. Download from https://github.com/AdityaBahl/Calculator-Android-App/blob/main/app/release/app-release.apk
+2. Install it on your phone or an emulator.
+3. Enjoy Calculating 😉.
+
 ## Why Android Calculator Application using Kotlin and Android Studio?
 
 An Android Calculator Application using Kotlin and Android Studio can be beneficial for several reasons:

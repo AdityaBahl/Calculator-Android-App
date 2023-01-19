@@ -8,7 +8,6 @@
 
 ## Preview
 
-![image1](https://user-images.githubusercontent.com/90335449/213575575-2a1fc111-a135-4f43-88a4-7c2153388973.png)
 ![image11](https://user-images.githubusercontent.com/90335449/213576235-18a11cbb-63a2-425c-8348-51f01903b9bb.png)
 
 ## APK File

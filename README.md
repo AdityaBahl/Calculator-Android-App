@@ -88,25 +88,30 @@ In conclusion, an Android Calculator Application using Kotlin and Android Studio
 
 Exporting an app to an APK file in Android Studio involves the following steps:
 
-Open your project in Android Studio and make sure that you are in the "Project" view.
+1. Open your project in Android Studio and make sure that you are in the "Project" view.
 
-Click on the "Build" menu at the top of the screen, and then select "Build Bundle(s)/APK(s)".
+2. Click on the "Build" menu at the top of the screen, and then select "Build Bundle(s)/APK(s)".
 
-Select "Build APK(s)" from the menu that appears.
+3. Select "Build APK(s)" from the menu that appears.
 
-Android Studio will now build the APK file for your app. This process may take a few minutes, depending on the size and complexity of your app.
+4. Android Studio will now build the APK file for your app. This process may take a few minutes, depending on the size and complexity of your app.
 
-Once the build process is complete, you will see a message that says "Build successful". You can find the APK file in the "app/build/outputs/apk" directory of your project.
+5. Once the build process is complete, you will see a message that says "Build successful". You can find the APK file in the "app/build/outputs/apk" directory of your project.
 
-You can then distribute the APK file to your users, either by publishing it to the Google Play Store or by distributing it directly to your users.
+6. You can then distribute the APK file to your users, either by publishing it to the Google Play Store or by distributing it directly to your users.
 
 It's important to note that you should sign the apk before distributing it, you can do this by following these steps:
 
-Open the Generate Signed Bundle or APK wizard by selecting Build > Generate Signed Bundle/APK.
-Select either APK or Android App Bundle and click Next.
-Select the app module you want to export.
-Select either a existing key or create a new key and follow the instructions.
-Click Finish and the wizard signs and exports the APK or AAB.
+1. Open the Generate Signed Bundle or APK wizard by selecting Build > Generate Signed Bundle/APK.
+
+2. Select either APK or Android App Bundle and click Next.
+
+3. Select the app module you want to export.
+
+4. Select either a existing key or create a new key and follow the instructions.
+
+5. Click Finish and the wizard signs and exports the APK or AAB.
+
 Additionally, you can also use the command line to export the apk, by using the command "./gradlew assembleRelease" in the terminal of your project directory.
 
 ## References
